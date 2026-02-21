@@ -1,0 +1,102 @@
+Importer Log Report
+Project : HQ_RPI_T113_V04_162.PrjPcb
+
+Section : Document - F:\share\Embed\HQ_RPI_T113_V04\HQ_RPI_T113_V04_162.DSN
+
+    Section : Importing Sheet - MAIN.SchDoc
+        Warning : Junction at (256.54mm,566.42mm) has been added.
+        Warning : Junction at (142.24mm,360.68mm) has been added.
+        Warning : Junction at (208.28mm,436.88mm) has been added.
+        Warning : Junction at (414.02mm,525.78mm) has been added.
+        Warning : Junction at (314.96mm,436.88mm) has been added.
+        Warning : Junction at (650.24mm,340.36mm) has been added.
+        Warning : Junction at (548.64mm,213.36mm) has been added.
+        Warning : Junction at (568.96mm,104.14mm) has been added.
+        Warning : Junction at (322.58mm,213.36mm) has been added.
+        Warning : Junction at (83.82mm,200.66mm) has been added.
+        Warning : Junction at (345.44mm,535.94mm) has been added.
+        Warning : Junction at (424.18mm,281.94mm) has been added.
+        Warning : Junction at (424.18mm,269.24mm) has been added.
+        Warning : Junction at (198.12mm,553.72mm) has been added.
+        Warning : Junction at (292.1mm,546.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (251.46mm,566.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,546.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,487.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (287.02mm,462.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,459.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (304.8mm,436.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (332.74mm,416.56mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (439.42mm,434.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (208.28mm,426.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,487.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (314.96mm,462.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (139.7mm,345.44mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (149.86mm,337.82mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.78mm,436.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (144.78mm,335.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (154.94mm,332.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (254mm,546.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (393.7mm,525.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (454.66mm,459.74mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (454.66mm,500.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (233.68mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (241.3mm,279.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (287.02mm,256.54mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (342.9mm,561.34mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,533.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,533.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,515.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (15.24mm,424.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (27.94mm,424.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,424.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,424.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,406.4mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (15.24mm,474.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (99.06mm,474.98mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,520.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (353.06mm,287.02mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (353.06mm,266.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (650.24mm,342.9mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (655.32mm,299.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (454.66mm,480.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (650.24mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (713.74mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (751.84mm,101.6mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (474.98mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (434.34mm,119.38mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (474.98mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,401.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,327.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,314.96mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (40.64mm,566.42mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (68.58mm,571.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,553.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (91.44mm,553.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (91.44mm,581.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (386.08mm,96.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (541.02mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (541.02mm,139.7mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (541.02mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (541.02mm,144.78mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (215.9mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (309.88mm,546.1mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (652.78mm,325.12mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (205.74mm,553.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (546.1mm,104.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (617.22mm,170.18mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (302.26mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (378.46mm,213.36mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (55.88mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.66mm,200.66mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (678.18mm,142.24mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (647.7mm,149.86mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (424.18mm,299.72mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (591.82mm,261.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (612.14mm,261.62mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (193.04mm,485.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (137.16mm,485.14mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,502.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,477.52mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (576.58mm,452.12mm) has been removed. It will be automatically calculated.
+    EndSection
+EndSection
